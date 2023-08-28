@@ -22,6 +22,7 @@
 ```
 
 ### Run locally
+- Chạy file  `stock_train_model.ipynb ` để lấy dữ liệu gần nhất và train model 
 
 - Mở terminal tại thư mục gốc và gõ lệnh bên dưới:
 
