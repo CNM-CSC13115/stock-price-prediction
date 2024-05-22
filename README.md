@@ -2,10 +2,6 @@
 
 # Machine Learning Project
 
-## ℹ️ Thông tin nhóm
-
-- 19127552 - Nguyễn Thanh Thảo
-- 20127098 - Đỗ Thuỵ Phương Vy
 
 ## 📃 Yêu cầu
 
